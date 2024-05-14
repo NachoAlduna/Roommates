@@ -1,0 +1,22 @@
+{
+  "0": {
+    "id": "0955"
+  },
+  "1": {
+    "id": "3b15"
+  },
+  "gastos": [
+    {
+      "id": "0955",
+      "nombre": "Mikita Malashenko",
+      "descripcion": "xccc",
+      "monto": 15000
+    },
+    {
+      "id": "3b15",
+      "nombre": "Annemarie Chin",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    }
+  ]
+}

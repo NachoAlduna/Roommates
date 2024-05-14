@@ -1,0 +1,130 @@
+{
+  "roommates": [
+    {
+      "id": "e7139b",
+      "nombre": "Mikita Malashenko",
+      "debe": 50000,
+      "recibe": 330000
+    },
+    {
+      "id": "5027d9",
+      "nombre": "Allen Graham",
+      "debe": 170000,
+      "recibe": 500000
+    },
+    {
+      "id": "26c120",
+      "nombre": "Vildan Çağıran",
+      "debe": 110000,
+      "recibe": 490000
+    },
+    {
+      "id": "6e9784",
+      "nombre": "یاسمین نكو نظر",
+      "debe": 500000,
+      "recibe": 400000
+    },
+    {
+      "id": "b884e0",
+      "nombre": "Wilfrido Cuellar",
+      "debe": 70000,
+      "recibe": 90000
+    },
+    {
+      "id": "437844",
+      "nombre": "Rus Gisem",
+      "debe": 160000,
+      "recibe": 10000
+    },
+    {
+      "id": "08f59b",
+      "nombre": "Annemarie Chin",
+      "debe": 90000,
+      "recibe": 430000
+    },
+    {
+      "id": "2cb737",
+      "nombre": "Susanne Myers",
+      "debe": 190000,
+      "recibe": 360000
+    },
+    {
+      "id": "30a41b",
+      "nombre": "Axl Rijnbeek",
+      "debe": 500000,
+      "recibe": 30000
+    },
+    {
+      "id": "bafdbd",
+      "nombre": "Carolina Ballesteros",
+      "debe": 200000,
+      "recibe": 330000
+    },
+    {
+      "id": "1fb0c5",
+      "nombre": "Niva Salian",
+      "debe": 230000,
+      "recibe": 210000
+    },
+    {
+      "id": "b277a3",
+      "nombre": "Aleksi Tuomi",
+      "debe": 380000,
+      "recibe": 30000
+    },
+    {
+      "id": "8a778e",
+      "nombre": "Paul Lawrence",
+      "debe": 160000,
+      "recibe": 120000
+    },
+    {
+      "id": "e81f36",
+      "nombre": "Colin Morrison",
+      "debe": 80000,
+      "recibe": 340000
+    },
+    {
+      "id": "6f0299",
+      "nombre": "Idálio Aragão",
+      "debe": 470000,
+      "recibe": 100000
+    },
+    {
+      "id": "364146",
+      "nombre": "اميرعلي سالاری",
+      "debe": 340000,
+      "recibe": 330000
+    },
+    {
+      "id": "325434",
+      "nombre": "Vlasta Golovatiy",
+      "debe": 450000,
+      "recibe": 160000
+    },
+    {
+      "id": "9dfa25",
+      "nombre": "Amy Claire",
+      "debe": 380000,
+      "recibe": 30000
+    },
+    {
+      "id": "11aa83",
+      "nombre": "نازنین كامياران",
+      "debe": 260000,
+      "recibe": 420000
+    },
+    {
+      "id": "c377c5",
+      "nombre": "Ilonka Möbus",
+      "debe": 10000,
+      "recibe": 60000
+    },
+    {
+      "id": "a6f7bf",
+      "nombre": "Tina Srejović",
+      "debe": 470000,
+      "recibe": 280000
+    }
+  ]
+}
